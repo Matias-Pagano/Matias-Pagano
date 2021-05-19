@@ -5,6 +5,6 @@
 -->
 
 - 🌱 I’m currently learning JavaScript, NodeJs, CSS, HTML, React.
-- 📫 How to reach me: tutepagano@live.com
+- 📫 How to reach me: paganomatias@hotmail.com
 - 😄 Pronouns: Tute
 
